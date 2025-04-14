@@ -225,14 +225,33 @@ export default {
   font-size: 1.2rem;
   font-weight: 600;
   margin: 10px 0;
-  color: #333;
+  color: #000000;
+}
+
+.card-product__title a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.card-product__title a:hover {
+  color: #000000;
+  text-decoration: none;
 }
 
 .card-product__price {
   font-size: 1.3rem;
   font-weight: 700;
-  color: #2c3e50;
+  color: #000000;
   margin: 15px 0;
+}
+
+.card-body p {
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.card-body p:first-child {
+  font-weight: bold;
 }
 
 .btn {

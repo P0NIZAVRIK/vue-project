@@ -101,41 +101,42 @@ export default {
   font-size: 2rem;
   font-weight: 600;
   margin: 20px 0;
-  color: #2c3e50;
+  color: #000000;
 }
 
 .card-product__price {
   font-size: 1.5rem;
   font-weight: 700;
-  color: #2c3e50;
+  color: #000000;
   margin: 20px 0;
 }
 
 .card-product__duration {
   font-size: 1.1rem;
-  color: #34495e;
+  color: #000000;
   margin-bottom: 20px;
 }
 
 .card-product__description {
   text-align: left;
   margin: 30px 0;
+  color: #000000;
 }
 
 .card-product__description h4 {
-  color: #2c3e50;
+  color: #000000;
   margin: 20px 0 10px;
 }
 
 .card-product__description p {
-  color: #34495e;
+  color: #000000;
   line-height: 1.6;
   margin-bottom: 15px;
 }
 
 .card-product__description ul {
   padding-left: 20px;
-  color: #34495e;
+  color: #000000;
 }
 
 .btn {

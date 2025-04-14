@@ -1,5 +1,5 @@
 import { createStore } from 'vuex'
-import data from '../mock-server/db.json'
+import data from '../../mock-server/db.json'
 
 const images = {
   'moscow.jpg': require('@/assets/images/moscow.jpg'),
